@@ -4,6 +4,7 @@ core = 7.x
 
 dependencies[] = admin_menu
 dependencies[] = block
+dependencies[] = coffee
 dependencies[] = color
 dependencies[] = comment
 dependencies[] = contextual
