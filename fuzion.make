@@ -12,6 +12,7 @@ projects[views][patch][1036962] = https://www.drupal.org/files/views-fix-destina
 
 projects[] = admin_menu
 projects[] = civicrm_entity
+projects[] = coffee
 projects[] = ctools
 projects[] = date
 projects[] = entity
